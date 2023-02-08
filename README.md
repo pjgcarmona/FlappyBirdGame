@@ -4,6 +4,6 @@
 
  Just click on Start Game 
 
- Use the Spacebar to pass the bird between the pipes
+ Use the Spacebar to fly between the pipes
 
  Improve your score and enjoy yourself :)
